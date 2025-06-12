@@ -2,6 +2,8 @@
 
 **A self-improving AI that learns, tests, and deploys trading strategies using advanced machine learning techniques**
 
+![Image](https://github.com/user-attachments/assets/3c0cb7e0-2a61-40d9-bf46-df95f60ffea5)
+
 ## Overview
 
 ZenithQ is a comprehensive machine learning system that automatically discovers, tests, and improves trading strategies across different timeframes. It combines supervised learning, reinforcement learning, and genetic algorithms to create a self-evolving trading ecosystem.
