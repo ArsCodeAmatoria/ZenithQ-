@@ -1,3 +1,10 @@
+███████╗███████╗███╗   ██╗██╗████████╗██╗  ██╗ ██████╗ 
+╚══███╔╝██╔════╝████╗  ██║██║╚══██╔══╝██║  ██║██╔═══██╗
+  ███╔╝ █████╗  ██╔██╗ ██║██║   ██║   ███████║██║   ██║
+ ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║   ██╔══██║██║▄▄ ██║
+███████╗███████╗██║ ╚████║██║   ██║   ██║  ██║╚██████╔╝
+╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══▀▀═╝ 
+
 # ZenithQ - AI-Powered Trading Strategy Discovery System
 
 **A self-improving AI that learns, tests, and deploys trading strategies using advanced machine learning techniques**
